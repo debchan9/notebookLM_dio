@@ -2,6 +2,10 @@
 
 # 📘 README – Projeto NotebookLM: HKS 3.0
 
+## 🔗 NotebookLM
+Acesse o caderno temático completo sobre HKS 3.0:  
+[NotebookLM – HKS 3.0](https://notebooklm.google.com/notebook/18f4af78-5fff-4199-a5d3-57d731b6f9f2)
+
 ## Visão Geral
 Este repositório documenta a criação de um **caderno temático no NotebookLM** sobre o **novo HKS 3.0**, reunindo fontes abertas em texto e PDF. O projeto explora como a IA pode apoiar o aprendizado ativo, organizando informações, elaborando perguntas estratégicas e consolidando conhecimento em um **miniguia de estudo**.
 
