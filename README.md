@@ -2,6 +2,8 @@
 
 # 📘 README – Projeto NotebookLM: HKS 3.0
 
+---
+
 ## 🔗 NotebookLM
 Acesse o caderno temático completo sobre HKS 3.0:  
 [NotebookLM – HKS 3.0](https://notebooklm.google.com/notebook/18f4af78-5fff-4199-a5d3-57d731b6f9f2)
@@ -26,8 +28,7 @@ Este repositório documenta a criação de um **caderno temático no NotebookLM*
 │   ├── fontes.md          # Lista e metadados das fontes
 │   └── registros.md       # Perguntas e respostas com referências
 ├── data/
-│   ├── fontes/            # PDFs e textos usados
-│   └── notas/             # Objetivos, perguntas estratégicas, curadoria
+│   ├── notas/             # Objetivos, perguntas estratégicas, curadoria
 └── .github/
     └── ISSUE_TEMPLATE/    # Modelos de dúvidas e melhorias
 
