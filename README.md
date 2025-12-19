@@ -9,7 +9,27 @@ Acesse o caderno temático completo sobre HKS 3.0:
 [NotebookLM – HKS 3.0](https://notebooklm.google.com/notebook/18f4af78-5fff-4199-a5d3-57d731b6f9f2)
 
 ## Visão Geral
-Este repositório documenta a criação de um **caderno temático no NotebookLM** sobre o **novo HKS 3.0**, reunindo fontes abertas em texto e PDF. O projeto explora como a IA pode apoiar o aprendizado ativo, organizando informações, elaborando perguntas estratégicas e consolidando conhecimento em um **miniguia de estudo**.
+O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um tema específico — neste caso, o novo HKS 3.0. A atividade explora como a Inteligência Artificial pode apoiar o aprendizado ativo, ajudando a organizar informações, elaborar perguntas estratégicas e consolidar conhecimento em um miniguia de estudo.
+
+## 🚀 Conexão com o Bootcamp
+Este projeto integra-se ao bootcamp Bradesco – GenAI & Dados junto à DIO, dentro da trilha “Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM”, reforçando a prática de:
+
+Aprendizagem ativa com IA.
+
+Organização e sistematização do conhecimento.
+
+Pensamento crítico e curadoria de informações.
+
+## Metodologia
+Curadoria de materiais: reunir fontes abertas em texto e PDF sobre o HKS 3.0.
+
+Definição de objetivos de estudo: estabelecer metas de compreensão e aplicação.
+
+Elaboração de perguntas estratégicas: estimular análise e pensamento crítico.
+
+Testes de prompts no NotebookLM: explorar diferentes formas de interação com a IA.
+
+Produção do miniguia: consolidar resumos, glossário e prompts para futuras revisões.
 
 ## Objetivos
 - **Compreender** os principais conceitos e atualizações do HKS 3.0.  
@@ -34,7 +54,8 @@ Este repositório documenta a criação de um **caderno temático no NotebookLM*
 
 ```
 
-🚀 Guia Rápido de Uso – Projeto HKS 3.0 no NotebookLM
+## 🚀 Guia Rápido de Uso – Projeto HKS 3.0 no NotebookLM
+
 1. Acesse o NotebookLM
 >Entre no NotebookLM by Google e crie um novo caderno temático dedicado ao HKS 3.0.
 
